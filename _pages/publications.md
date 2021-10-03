@@ -4,13 +4,25 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<script src="{{ base_path }}/assets/js/publications.js"></script>
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- <div class="archive" id="publicationsViz">
 
-{% include base_path %}
+</div> -->
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="archive" id="publicationsList">
+
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111496562-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111496562-1');
+</script>
+
+
+{% include paginator.html %}

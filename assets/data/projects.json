@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Visual Analytics for Automated Sorghum Phenotyping and Trait Development",
+      "abstract": "<a href=https://www.purdue.edu/terra/>Terra project</a> is a collaboration among engineers and plant scientists to create a high-throughput automated phenotyping platform using either UVAs or trucks. The platform integrates multiple sensors (e.g., LiDAR, hyperspectral cameras, thermal cameras) to predict the phenotypic traits of crops. Our mission, as data visualization experts, is assisting the exploration of collected sensor data, measured ground truth plat traits, and present the connection among datasets. We created a visual analytics system, <b>FeatureExplorer</b>, that integrated the feature engineering pipeline of remote sensing experts to facilitate the selection of hyperspectral features in plant biomass prediction. ",
+      "publications": ["<a href=https://arxiv.org/pdf/1908.00671.pdf>IEEE VIS 2019 Short Papers</a>", "<a href=/assets/data/igarss18.pdf>IEEE IGARSS 2018</a>", "<a href=/assets/data/igarss17.pdf>IEEE IGARSS 2017</a>"],
+      "name": "terra-prj"
+    },
+    {
+      "title": "Employee Performance Evaluation and Analysis for Law Enforcement Officers",
+      "abstract": "This project is a collaboration with local law enforcement agencies, and the goal is designing a visual analytics system to assist the performance evaluation of patrol officers. We adopted a set of hybrid evaluation metrics that considers both quantitative measures of employee achievements and subjective weighting of contribution to an organization. Additionally, customized visual representations are designed to display the performance for individuals, teams, and the organization regarding the organizational hierarchy.",
+      "publications": ["<a href=https://arxiv.org/pdf/1907.13601.pdf>IEEE VAST 2019</a>", "<a href=/assets/data/metricsvis17.pdf>IEEE HST 2017</a>"],
+      "name": "metricsvis-prj"
+    },
+    {
+      "title": "Route Packing: Geospatially-accurate visualization of route networks",
+      "abstract": "Displaying several routes simultaneously on a geographic map while preserving the geo-locations, identities, directionality, and volume of individual routes is challenging. We present route packing, a novel (geo)visualization technique collects variable-width route lines side by side while minimizing crossings, encodes them with categorical colors, and decorates them with glyphs to show their directions. Furthermore, nodes representing sources and sinks use glyphs to indicate whether routes stop at the node or merely pass through it. We conducted a crowd-sourced user study investigating route tracing performance with road networks visualized using our route packing technique. Our findings highlight the visual parameters under which the technique yields optimal performance.",
+      "publications": ["<a href=https://scholarspace.manoa.hawaii.edu/bitstream/10125/63907/0136.pdf>HICSS-53</a>"],
+      "name": "routevis-prj"
+    },
+    {
+      "title": "VASA: Interactive computational steering of large asynchronous simulation pipelines for infrastructure",
+      "abstract": "Society is under threat from many sources such as hurricanes, floods, food poisoning, major pandemics, crimes, and terrorist attacks. Simulations are feasible approaches to prepare us for server scenarios when real-world exercises are costly and dangerous. We create VASA, a visual analytics platform consisting of a workbench, that connects several distributed simulation components for modeling the impact of societal threats. Each component encapsulates a high-fidelity simulation model that together form an asynchronous simulation pipeline: a system of systems of individual simulations with a common data and parameter exchange format. VASA also supports coarse local approximations while high precision simuation takes long computation time. ",
+      "publications": ["<a href=/assets/data/vasa.pdf>IEEE VAST 2014</a>"],
+      "name": "vasa-prj"
+    }
+  ]

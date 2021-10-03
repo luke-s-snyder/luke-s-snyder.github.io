@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-weight: 400;
+    text-align: left;
+  }
+
+.bootstrap-overrides h1,h2,h3,h4,h5,h6 {
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    /* text-transform: uppercase; */
+}
+
+/* .bootstrap-overrides h1{ font-size: 2em; margin: .67em 0 } */
+.bootstrap-overrides h1{ font-size: 2em; margin: .3em 0 }
+.bootstrap-overrides h2{ font-size: 1.5em; margin: .75em 0 }
+.bootstrap-overrides h3{ font-size: 1.17em; margin: .83em 0 }
+.bootstrap-overrides h4{ font-size: 1em; margin: 1.12em 0 }
+/* .bootstrap-overrides h5{ font-size: .83em; margin: 1.5em 0 } */
+.bootstrap-overrides h5{ font-size: .83em; margin: 0.5em 0 }
+.bootstrap-overrides h6{ font-size: .75em; margin: 1.67em 0 }
+
+.educationtext .list{margin-left: -20px;}
+
+.educationtime {
+    float: right;
+    width: 150px;
+    font-size: 15px;
+}
+.educationinfo{
+    float: left;
+    width: 670px;
+}
+
+.timeline-body > ul,li{
+    margin: 0 0 0 0;
+}
+
+.education-detail-list {
+    margin: 0 0 0 0;
+}
+
+.educationtext .timeline-panel {
+    list-style-type: none;
+    width: 90%;
+    /* margin-bottom: 30px; */
+}
+
+.educationtext .timeline-image {
+    max-width: 80px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+}
+
+.educationtext .timeline-title {
+    width: 80%;
+    display: inline-block;
+    vertical-align: top;
+}
+.educationtext .timeline-title-full {
+    width: 96%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.timeline-title h4{
+    margin: 0 0
+}
+
+.educationtext .timeline-body {
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+/* .nav-tabs > li {
+    font-size: 18px;
+}
+.nav-tabs > li > a,
+.nav-tabs > li > a:focus,
+.nav-tabs > li > a:hover {
+    background-color: white;
+    border: none;
+    color: #784491;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover {
+    font-weight: bold;
+    border: none;
+    border-bottom: 3px solid #784491;
+} */
+
+.homepageinfo p{
+    font-size: 14px;
+}
