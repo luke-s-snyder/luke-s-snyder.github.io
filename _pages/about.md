@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Computer Science & Engineering PhD student at the University of Washington studying with [Jeff Heer](https://homes.cs.washington.edu/~jheer/). Previously, I received my Master's in Computer Science at Purdue University where I studied predictive visual analytics for social media data with [David Ebert](https://www.ou.edu/coe/cs/people/ebert). I received my Bachelor's in Computer Science from the University of Arkansas.
+I am a first-year Computer Science & Engineering PhD student at the University of Washington studying with [Jeff Heer](https://homes.cs.washington.edu/~jheer/). Previously, I received my Master's in Computer Science at Purdue University where I studied predictive visual analytics for social media data with [David Ebert](https://www.ou.edu/coe/cs/people/ebert). I also received my Bachelor's in Computer Science from the University of Arkansas.
 <br>
 <br>
-My research interests broadly include (data) visualization, visual analytics HCI, and interactive machine learning.
-I am especially interested in tools and systems for abstracting visualization design, improving users' workflow for iteratively refining visual specifications, and modeling users' interactions and reasoning with data / visualizations.
+My research interests broadly include (data) visualization, visual analytics, HCI, and interactive machine learning.
+I am especially interested in tools and systems for abstracting visualization design, improving users' workflow for iteratively refining visual specifications, and modeling users' interactions and reasoning with data visualizations.
 <br>
 <br>
 Email: snyderl (at) cs.washington.edu
