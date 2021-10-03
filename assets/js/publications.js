@@ -51,7 +51,9 @@ $(document).ready(function () {
         var keywords = [];
         var journals = [];
         var conferences = [];
+        var books = [];
         var workshops = [];
+        var technicals = [];
 
         data.forEach(function (datum) {
             coauthors = coauthors.concat(datum.authors);
@@ -63,6 +65,10 @@ $(document).ready(function () {
                 journals.push(datum);
             } else if (datum.type == "Workshop") {
                 workshops.push(datum);
+            } else if (datum.type == "Book") {
+                books.push(datum);
+            } else if (datum.type == "Technical") {
+                technicals.push(datum);
             }
 
         });
@@ -95,14 +101,30 @@ $(document).ready(function () {
             showPublication(publicationsContent, paper, i);
         });
 
+        publicationsContent.append("h3").html("Book Chapters (" + books.length + ")")
+        .style("border-bottom", "1px solid #f2f3f3")
+        .style("padding-bottom", "9px");
 
-        publicationsContent.append("h3").html("Posters")
-            .style("border-bottom", "1px solid #f2f3f3")
-            .style("padding-bottom", "9px");
-
-        workshops.forEach(function (paper, i) {
+        books.forEach(function (paper, i) {
             showPublication(publicationsContent, paper, i);
         });
+
+        publicationsContent.append("h3").html("Research and Technical White Papers (" + technicals.length + ")")
+        .style("border-bottom", "1px solid #f2f3f3")
+        .style("padding-bottom", "9px");
+
+        technicals.forEach(function (paper, i) {
+            showPublication(publicationsContent, paper, i);
+        });
+
+
+        // publicationsContent.append("h3").html("Posters")
+        //     .style("border-bottom", "1px solid #f2f3f3")
+        //     .style("padding-bottom", "9px");
+
+        // workshops.forEach(function (paper, i) {
+        //     showPublication(publicationsContent, paper, i);
+        // });
     });
 
 });
@@ -155,7 +177,7 @@ function showPublication (publicationsContent, paper, i) {
 
     paper.authors.forEach(function (author, j) {
         var mainAuthor = false;
-        if (author == "Jieqiong Zhao" || author == "Jieqiong(Helen) Zhao") {
+        if (author == "Luke S. Snyder" || author == "Luke Snyder") {
             author = "" + author + "";
             mainAuthor = true;
             if (j == 0)
