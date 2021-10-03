@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Computer Science & Engineering PhD student at the University of Washington studying with [Jeff Heer](https://homes.cs.washington.edu/~jheer/). Before that, I received my Master's in Computer Science at Purdue University where I studied predictive visual analytics for social media data with [David Ebert](https://www.ou.edu/coe/cs/people/ebert). I received my Bachelor's in Computer Science from the University of Arkansas.
+I am a first-year Computer Science & Engineering PhD student at the University of Washington studying with [Jeff Heer](https://homes.cs.washington.edu/~jheer/). Previously, I received my Master's in Computer Science at Purdue University where I studied predictive visual analytics for social media data with [David Ebert](https://www.ou.edu/coe/cs/people/ebert). I received my Bachelor's in Computer Science from the University of Arkansas.
 <br>
 <br>
 My research interests broadly include (data) visualization, visual analytics HCI, and interactive machine learning.
