@@ -12,7 +12,7 @@ I am a first-year Computer Science & Engineering PhD student at the University o
 <br>
 <br>
 My research interests broadly include (data) visualization, visual analytics, HCI, and interactive machine learning.
-I am especially interested in tools and systems for abstracting visualization design, improving users' workflow for iteratively refining visual specifications, and modeling users' interactions and reasoning with data visualizations.
+I am especially interested in user-adaptive / intelligent visualizations and interfaces, methods for abstracting visualization design, and formalized, theory-driven models of users' interactions with data visualizations.
 <br>
 <br>
 Email: snyderl (at) cs.washington.edu
