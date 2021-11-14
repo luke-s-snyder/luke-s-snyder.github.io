@@ -16,6 +16,7 @@ I am especially interested in user-adaptive / intelligent visualizations and int
 <br>
 <br>
 Email: snyderl (at) cs.washington.edu
+{: .text-justify}
 
 
 <!--
