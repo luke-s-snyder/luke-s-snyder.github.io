@@ -1,6 +1,25 @@
 [
   {
     "authors": [
+      "Luke S. Snyder",
+      "Jeffrey Heer"
+    ],
+    "title": "DIVI: Dynamically Interactive Visualization",
+    "venue": "IEEE TVCG",
+    "year": "2023 [Forthcoming]",
+    "type": "Journal",
+    "pdf": "",
+    "presentation": "",
+    "slides": "",
+    "video": "",
+    "doi": "",
+    "bibtex": "",
+    "name": "divi23",
+    "keywords": [
+    ]
+  },
+  {
+    "authors": [
       "Audrey Reinert",
       "Luke S. Snyder",
       "Andrew S. Fox",
