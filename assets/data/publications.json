@@ -20,6 +20,28 @@
   },
   {
     "authors": [
+      "Ming Ming Chiu",
+      "Alex Morakhovski",
+      "David Ebert",
+      "Audrey Reinert",
+      "Luke S. Snyder"
+    ],
+    "title": "Detecting COVID-19 Fake News on Twitter: Followers, Emotions, Relationships, and Uncertainty",
+    "venue": "American Behavioral Scientist",
+    "year": "2023",
+    "type": "Journal",
+    "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10227546/",
+    "presentation": "",
+    "slides": "",
+    "video": "",
+    "doi": "",
+    "bibtex": "",
+    "name": "covid23",
+    "keywords": [
+    ]
+  },
+  {
+    "authors": [
       "Audrey Reinert",
       "Luke S. Snyder",
       "Andrew S. Fox",
