@@ -5,16 +5,16 @@
       "Jeffrey Heer"
     ],
     "title": "DIVI: Dynamically Interactive Visualization",
-    "venue": "IEEE TVCG",
-    "year": "2023 [Forthcoming]",
+    "venue": "IEEE TVCG (Proc. VIS 2023)",
+    "year": "2024",
     "type": "Journal",
-    "pdf": "",
+    "pdf": "https://idl.cs.washington.edu/files/2024-DIVI-TVCG.pdf",
     "presentation": "",
     "slides": "",
     "video": "",
     "doi": "",
     "bibtex": "",
-    "name": "divi23",
+    "name": "divi24",
     "keywords": [
     ]
   },
