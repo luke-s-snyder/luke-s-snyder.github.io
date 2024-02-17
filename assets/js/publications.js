@@ -225,6 +225,10 @@ function showPublication (publicationsContent, paper, i) {
         pubInfo.append("span").attr("class", "textlink").html('<a target="_blank" href="' + paper.pdf + '">[pdf]</a>').style("font-size", "16px");
     }
 
+    if (paper.software != "") {
+        pubInfo.append("span").attr("class", "textlink").html('<a target="_blank" href="' + paper.software + '">[software]</a>').style("font-size", "16px");
+    }
+
     if (paper.video != "") {
         pubInfo.append("span").attr("class", "textlink").html('<a target="_blank" href="' + paper.video + '">[demo video]</a>  ').style("font-size", "16px");
     }
