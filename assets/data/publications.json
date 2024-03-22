@@ -2,6 +2,29 @@
   {
     "authors": [
       "Luke S. Snyder",
+      "Ryan A. Rossi",
+      "Eunyee Koh",
+      "Jeffrey Heer",
+      "Jane Hoffswell"
+    ],
+    "title": "Interaction Techniques for Exploratory Data Visualization on Mobile Devices",
+    "venue": "EuroVis 2024 - Short Papers",
+    "year": "2024",
+    "type": "Conference",
+    "pdf": "",
+    "software": "",
+    "presentation": "",
+    "slides": "",
+    "video": "",
+    "doi": "",
+    "bibtex": "",
+    "name": "mobile24",
+    "keywords": [
+    ]
+  },
+  {
+    "authors": [
+      "Luke S. Snyder",
       "Jeffrey Heer"
     ],
     "title": "DIVI: Dynamically Interactive Visualization",
