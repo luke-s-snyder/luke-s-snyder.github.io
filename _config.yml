@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luke S. Snyder"
+title                    : "Luke Snyder"
 title_separator          : "-"
-name                     : &name "Luke S. Snyder"
+name                     : &name "Luke Snyder"
 description              : &description #"Computer Science & Engineering PhD student at University of Washington."
 url                      : https://luke-s-snyder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

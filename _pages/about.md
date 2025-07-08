@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fourth-year Computer Science & Engineering PhD student at the University of Washington, studying with [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/){:target="_blank"} from the [Interactive Data Lab](https://idl.cs.washington.edu/){:target="_blank"}. Previously, I received my Master's in Computer Science from Purdue University, working with [David Ebert](https://www.ou.edu/coe/cs/people/faculty/david-ebert){:target="_blank"} on predictive visual analytics of social media data. I also received my Bachelor's in Computer Science from the University of Arkansas.
+Welcome! I am a fifth-year Computer Science & Engineering PhD student at the University of Washington, studying with [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/){:target="_blank"} from the [Interactive Data Lab](https://idl.cs.washington.edu/){:target="_blank"}. Previously, I received my Master's in Computer Science from Purdue University, working with [David Ebert](https://www.ou.edu/coe/cs/people/faculty/david-ebert){:target="_blank"} on predictive visual analytics of social media data. I also received my Bachelor's in Computer Science from the University of Arkansas.
 <br>
 <br>
-My research interests broadly include (data) visualization, visual analytics, HCI, and interactive machine learning.
+My research interests broadly include human-computer interaction, scholarly communication, and data visualization.
 I am especially interested in intelligent interfaces, visualization tools, and interaction design.
 <br>
 <br>
